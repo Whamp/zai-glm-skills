@@ -1,5 +1,5 @@
 ---
-name: zai-mcp-servers
+name: zai-glm-skills
 description: Use when you need to search the web, fetch web content, read GitHub repositories, or analyze images/videos. Use for web research, documentation retrieval, code exploration, UI screenshots, OCR, error diagnosis, or technical diagrams.
 ---
 
